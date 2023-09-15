@@ -137,6 +137,7 @@ h1 span.color{
  }
  
  #text .btn{
+    position: relative;
     margin-left:30%;
     margin-top: 6%; 
     padding: 15px 45px;
