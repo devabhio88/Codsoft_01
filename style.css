@@ -130,14 +130,14 @@ h1 span.color{
  }
 
 #text h3,h4{
-    margin-top: 15px;
+    margin-top: 5px;
     font-size: 16.5px;
     font-weight: 600;
     color: white;
  }
 .resume{
     position:absolute;
-    margin-top: 2rem;
+    margin-top: 2.4rem;
     margin-left: 19rem;
 
 }
