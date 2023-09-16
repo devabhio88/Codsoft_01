@@ -135,14 +135,12 @@ h1 span.color{
     font-weight: 600;
     color: white;
  }
- 
- #text .btn{
-    position: relative;
-    margin-left:30%;
-    margin-top: 6%; 
-    padding: 15px 45px;
-}
+.resume{
+    position:absolute;
+    margin-top: 2rem;
+    margin-left: 19rem;
 
+}
 #page1{
     height: 100vh;
     width: 100vw;
